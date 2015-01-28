@@ -1,0 +1,4 @@
+dbf中Name代表各个路的名字;Level1,2,3是给道路分的3个级别.Name: the name of the roads. Level: the level of the roads.
+dbf:attribute file;
+shx:index file;
+shp:point file.

@@ -1,0 +1,4 @@
+dbf文档中name代表各个区域的名字.Name: the name of each region.
+dbf:attribute file;
+shx:index file;
+shp:point file.

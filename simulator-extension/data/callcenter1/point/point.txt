@@ -1,0 +1,4 @@
+dbf文件中ID用来标示类别；其中ID=1，代表客户；ID=3 代表维修站。Name字段存放各点的名称。ID=1 means customer; ID=3 means maintainance station.
+dbf:attribute file;
+shx:index file;
+shp:point file.
